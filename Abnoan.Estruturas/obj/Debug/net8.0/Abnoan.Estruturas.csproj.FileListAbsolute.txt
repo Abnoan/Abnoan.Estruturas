@@ -1,0 +1,14 @@
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\bin\Debug\net8.0\Abnoan.Estruturas.exe
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\bin\Debug\net8.0\Abnoan.Estruturas.deps.json
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\bin\Debug\net8.0\Abnoan.Estruturas.runtimeconfig.json
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\bin\Debug\net8.0\Abnoan.Estruturas.dll
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\bin\Debug\net8.0\Abnoan.Estruturas.pdb
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\obj\Debug\net8.0\Abnoan.Estruturas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\obj\Debug\net8.0\Abnoan.Estruturas.AssemblyInfoInputs.cache
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\obj\Debug\net8.0\Abnoan.Estruturas.AssemblyInfo.cs
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\obj\Debug\net8.0\Abnoan.Estruturas.csproj.CoreCompileInputs.cache
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\obj\Debug\net8.0\Abnoan.Estruturas.dll
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\obj\Debug\net8.0\refint\Abnoan.Estruturas.dll
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\obj\Debug\net8.0\Abnoan.Estruturas.pdb
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\obj\Debug\net8.0\Abnoan.Estruturas.genruntimeconfig.cache
+c:\Users\abnoa\Abnoan.Estruturas\Abnoan.Estruturas\obj\Debug\net8.0\ref\Abnoan.Estruturas.dll
